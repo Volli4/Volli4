@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin!
 
-<!--
-**Volli4/Volli4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate C/AL and recently AL developer with a strong interest in Python, SQL, and artificial intelligence. I love creating innovative solutions and continuously learning new things.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Programming Languages:** Python, SQL
+- **Databases:** MS SQL, PostgreSQL
+- **Tools:** Jupyter Notebook, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- **The Power MBA:** [Link](https://www.thepowermba.com/en-es/master-the-power-mba)
+- **AI for Business Professionals:** [Link](https://www.thepowermba.com/en/artificial-intelligence)
+
+## 📫 Contact
+- **Email:** martin@vollenbroeker.de
+- **LinkedIn:** [Link](https://de.linkedin.com/in/martin-vollenbr%C3%B6ker)
+- **GitHub:** [Link](https://github.com/Volli4)
+
+Thank you for visiting my profile! I'm looking forward to connecting and collaborating with other developers and AI enthusiasts.
